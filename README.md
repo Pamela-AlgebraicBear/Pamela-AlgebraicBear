@@ -8,7 +8,7 @@ I'm a Physics student at the Facultad de Ciencias, passionate about algebra, phy
 - 🌱 **Currently studying:** Core subjects such as optics, modern algebra, topology and differential geometry for physicists.
 - 👯 **Looking to collaborate on:** Open source projects related to physics and mathematics.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pamela-sánchez-canales) | [Email](mailto:pamela.sanchezcanales.com)
-- ⚡ **Fun fact:** I love wolves and bears, and I often combine my interest in nature with my scientific studies.
+- ⚡ **Fun fact:** I love cats and bears, and I often combine my interest in nature with my scientific studies.
 
 ### Featured Projects
 #### [Computational Algebra](https://github.com/Pamela-AlgebraicBear/algebra-computacional)
