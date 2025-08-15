@@ -7,7 +7,7 @@ Soy estudiante de Física en la Facultad de Ciencias, apasionada por el álgebra
 - 🖊️ **Actualmente trabajando en:** La elaboración de un blog de álgebra lineal dirigido a estudiantes de física, llamado "Blog de Michi".
 - 🌱 **Estudiando actualmente:** Asignaturas relacionadas con termodinamica, electromagnetismo, electronica, funciones generalizadas y transformadas integrales.
 - 👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con física y matemáticas.
-- 📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/pamela-sánchez-canales) | [Email](mailto:pamela.sanchezcanales.com)
+- 📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/pamela-sánchez-canales) | [Email](mailto:pamela.sanchez@ciencias.unam.mx)
 - ⚡ **Fun fact:** Adoro los gatos y los osos, por ello estan incluidos implicitamente en mis proyectos.
 
 ### GitHub Stats
