@@ -4,7 +4,7 @@
 Soy estudiante de Física en la Facultad de Ciencias, apasionada por el álgebra y la física. Me encanta explorar nuevos conceptos matemáticos y aplicarlos a la resolución de problemas científicos.
 
 - 🐻 **GitHub User:** [Pamela-AlgebraicBear](https://github.com/Pamela-AlgebraicBear)
-- 🔭 **Actualmente trabajando en:** La elaboración de un blog de álgebra lineal dirigido a estudiantes de física, llamado "Blog de Michi".
+- 🖊️ **Actualmente trabajando en:** La elaboración de un blog de álgebra lineal dirigido a estudiantes de física, llamado "Blog de Michi".
 - 🌱 **Estudiando actualmente:** Asignaturas relacionadas con termodinamica, electromagnetismo, electronica, funciones generalizadas y transformadas integrales.
 - 👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con física y matemáticas.
 - 📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/pamela-sánchez-canales) | [Email](mailto:pamela.sanchezcanales.com)
